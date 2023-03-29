@@ -22,9 +22,9 @@
 **📚📕 Blogs posts**
 <!-- BLOG-POST-LIST:START -->
 
-<a href="https://medium.com/@patel.poojag10/streamlining-machine-learning-development-with-docker-containers-2d0dc254cca4" target="blank">Streamlining Machine Learning Development with Docker Containers</a><br>
-<a href="https://medium.com/@patel.poojag10/master-the-power-of-python-10-tricks-to-take-your-code-to-the-next-level-27707e7331d3" target="blank">Master the Power of Python: 10 Tricks to Take Your Code to the Next Level</a><br>
-<a href="https://medium.com/@patel.poojag10/here-are-the-7-criteria-you-can-use-to-choose-the-right-model-for-your-business-problem-1551387e80ce" target="blank">Here are the 7 criteria you can use to choose the right model for your business problem.</a><br>
+<a href="https://medium.com/@patel.poojag10/streamlining-machine-learning-development-with-docker-containers-2d0dc254cca4" target="blank">Streamlining Machine Learning Development with Docker Containers</a><br><br>
+<a href="https://medium.com/@patel.poojag10/master-the-power-of-python-10-tricks-to-take-your-code-to-the-next-level-27707e7331d3" target="blank">Master the Power of Python: 10 Tricks to Take Your Code to the Next Level</a><br><br>
+<a href="https://medium.com/@patel.poojag10/here-are-the-7-criteria-you-can-use-to-choose-the-right-model-for-your-business-problem-1551387e80ce" target="blank">Here are the 7 criteria you can use to choose the right model for your business problem.</a><br><br>
 <a href="https://medium.com/@patel.poojag10/i-the-fundamental-of-machine-learning-4b16d2ab5b8c" target="blank">The Fundamental of Machine Learning</a>
 
 <!-- BLOG-POST-LIST:END -->
