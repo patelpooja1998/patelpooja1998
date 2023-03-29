@@ -21,7 +21,7 @@
 
 **📚📕 Blogs posts**
 <!-- BLOG-POST-LIST:START -->
-https://medium.com/@patel.poojag10/streamlining-machine-learning-development-with-docker-containers-2d0dc254cca4
+<a href="https://medium.com/@patel.poojag10/streamlining-machine-learning-development-with-docker-containers-2d0dc254cca4" target="blank"><Streamlining Machine Learning Development with Docker Containers</a>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
