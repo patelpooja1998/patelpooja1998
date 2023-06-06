@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Machine Learning project Development using Flask and Docker**
 
-- 🌱 I’m currently learning **About Data Engineering **
+- 🌱 I’m currently learning **About Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/patelpooja1998](https://github.com/patelpooja1998)
 
