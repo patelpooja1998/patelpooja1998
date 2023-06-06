@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Machine Learning project Development using Flask and Docker**
 
-- 🌱 I’m currently learning **Pytorch**
+- 🌱 I’m currently learning **About Data Engineering **
 
 - 👨‍💻 All of my projects are available at [https://github.com/patelpooja1998](https://github.com/patelpooja1998)
 
 - 📝 I regularly write articles on [https://medium.com/@patel.poojag10](https://medium.com/@patel.poojag10)
 
-- 💬 Ask me about **Machine Learning,Artificial intelligence,CI/CD pipeline,Software development,Python,Flask,Tensorflow,NLP,Keras and etc**
+- 💬 Ask me about **Data Engineering , Machine Learning, Artificial intelligence, CI/CD pipeline, Software development, Python, Flask, Tensorflow, NLP, Keras and etc**
 
 - 📫 How to reach me **patel.poojag10@gmail.com**
 
